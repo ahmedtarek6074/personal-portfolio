@@ -22,7 +22,7 @@ function Projects({}: Props) {
    id: 'Personal Portfolio',
    image: 'https://i.postimg.cc/wv7bngPr/Untitled-a2.png',
    p: 'A RESPONSIVE Modern Portfolio with NEXT.JS (Framer Motion, Tailwind CSS, Sanity.io, React) &   Just Deployed this masterpiece to Vercel so you can enjoy it',
-   live: ''
+   live: 'https://personal-portfolio-mocha-omega.vercel.app/'
  }
 ];
 
