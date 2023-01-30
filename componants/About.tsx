@@ -33,8 +33,8 @@ function About({}: Props) {
       duration:1.2
      }}
      
-      src='https://postimg.cc/dksvsw0z'
-      alt='user photo'
+      src='https://images.pexels.com/photos/102061/pexels-photo-102061.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+      alt=''
       />
       <div className='space-y-10 px-0 md:px-10 items-center justify-center text-center'>
         <h4 className='text-4xl font-semibold'>
