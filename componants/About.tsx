@@ -33,7 +33,7 @@ function About({}: Props) {
       duration:1.2
      }}
      
-      src='https://scontent-hbe1-1.xx.fbcdn.net/v/t39.30808-6/314504695_5730868423671307_620447076699926118_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=EbC8fbkXmKkAX_JBpgg&_nc_ht=scontent-hbe1-1.xx&oh=00_AfDpekGJwGfYRR0QhtcPYLL6XhR1FmEbHjbSjP7_OQco3Q&oe=63C71321'
+      src='https://ibb.co/Nnx57Wq'
       alt='user photo'
       />
       <div className='space-y-10 px-0 md:px-10 items-center justify-center text-center'>
