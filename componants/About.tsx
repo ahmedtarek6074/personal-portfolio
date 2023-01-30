@@ -33,7 +33,7 @@ function About({}: Props) {
       duration:1.2
      }}
      
-      src='https://ibb.co/Nnx57Wq'
+      src='https://postimg.cc/dksvsw0z'
       alt='user photo'
       />
       <div className='space-y-10 px-0 md:px-10 items-center justify-center text-center'>
